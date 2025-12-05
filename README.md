@@ -41,41 +41,6 @@ I used **Azure AutoML**, **Python**, and **Google Looker Studio** to develop pre
 
 ---
 
-## Repository Structure
-
-Port_Authority_Traffic_Analytics_Fall2025/
-│
-├── Reports/
-│ ├── Project_Progress_Report_1.pdf
-│ ├── Project_Progress_Report_2.pdf
-│ ├── Project_Progress_Report_3.pdf
-│ └── Port_Authority_Project_Description.pdf
-│
-├── Datasets/
-│ ├── Traffic_Goal1
-│ ├── Traffic_Goal2
-│ └── Traffic_Goal3
-│ └── Traffic_Goal4
-│ └── Traffic_Goal5
-│ 
-├── Code/
-│ ├── goal1_regression_automl.py
-│ ├── goal2_classification_violation.py
-│ ├── goal3_forecasting_prophet.py
-│ ├── goal4_congestion_analysis.py
-│ └── goal5_traffic_forecast_2030.py
-│
-├── Dashboard/
-│ ├── Looker_Studio_Dashboard.pdf
-│ ├── Goal1_TopFactors
-│ ├── Goal2_Violations_Trends
-│ ├── Goal3_Busiest_Times.png
-│ ├── Goal4_Congestion_Shift
-│ └── Goal5_Forecast2030
-│
-└── README.md
-
----
 
 ## Key Insights & Results
 
