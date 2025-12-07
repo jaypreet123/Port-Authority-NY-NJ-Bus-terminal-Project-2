@@ -2,7 +2,7 @@
 
 # Port Authority of New York & New Jersey Traffic Forecasting & Congestion Analysis
 
-This repository contains the complete analytics and forecasting project completed for **The Port Authority of New York and New Jersey as part of the **BANL 6900 – Business Analytics Capstone** at the **University of New Haven**.
+This repository contains the complete analytics and forecasting project completed for The Port Authority of New York and New Jersey as part of the BANL 6900 - Business Analytics Capstone** at the **University of New Haven**.
 
 The project focuses on analyzing and forecasting traffic trends across major Port Authority facilities bridges, tunnels, and terminals to support data driven decisions on congestion management, staffing, and long-term infrastructure planning.
 
